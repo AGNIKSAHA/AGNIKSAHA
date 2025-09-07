@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **MERN stack development**
 
-- 👨‍💻 All of my projects are available at [https://agnik-saha.vercel.app/](http://portfolio-gray-eight-10.vercel.app/)
+- 👨‍💻 All of my projects are available at [http://portfolio-gray-eight-10.vercel.app/](http://portfolio-gray-eight-10.vercel.app/)
 
 - 📫 How to reach me **agniksaha9868@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eTq6stJvza1GoJHQXW4TNESBMUBKkOej/view?usp=drive_link](https://drive.google.com/file/d/1KJKUXm0Bj0pAtUk9I5AMZepXXRZFhDwo/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KJKUXm0Bj0pAtUk9I5AMZepXXRZFhDwo/view?usp=drive_link](https://drive.google.com/file/d/1KJKUXm0Bj0pAtUk9I5AMZepXXRZFhDwo/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
