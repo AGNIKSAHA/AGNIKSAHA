@@ -17,7 +17,7 @@
 - 📫 How to reach me **agniksaha9868@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UQmVsJ7BMbYkComFFK2klxiWQwLUf0Hv/view?usp=drive_link](https://drive.google.com/file/d/1UQmVsJ7BMbYkComFFK2klxiWQwLUf0Hv/view?usp=drive_link)
-- <p align="center">
+ <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coder" width="400"/>
 </p>
 
